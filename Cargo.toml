@@ -2,6 +2,9 @@
 name = "thruster-jab"
 version = "0.1.0"
 edition = "2018"
+description = "Quick and simple dependency injection."
+license = "MIT"
+
 
 [[example]]
 name = "hello_world"
